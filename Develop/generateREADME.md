@@ -1,6 +1,6 @@
 
   
-  # sams 
+  # Sams Project
   
   ##Table of Contents
   ### * [Installation](#installation)
@@ -11,13 +11,13 @@
 
   ## Installation: 
   ### You must install the following for this app to function: 
-  ### with myself 
+  ### you need node.js and inquirer 
 
   ##Usage: 
-  ### happiness 
+  ### This is too generate a readme file 
 
   ## Contribution:
-  ### idk
+  ### You can fork this on github 
   
   ## Test: 
   ### Run the commands below in your terminal to test this app to function: 
@@ -25,6 +25,6 @@
 
   ## Questions: 
   ### For any questions or concerns contact me at 
-  ### Github Username: dkdkd  
+  ### Github Username: samchvz 
   ### or 
-  ### Email: kddk dd
+  ### Email: samchvz@gmail.com
